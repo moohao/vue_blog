@@ -55,8 +55,13 @@ export default {
 }
 .articles {
   text-align: left;
+  margin-top: 20px;
 }
 .delete {
   color: red;
+}
+a {
+  text-decoration: none;
+  color: black;
 }
 </style>
